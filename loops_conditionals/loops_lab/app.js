@@ -37,11 +37,10 @@ for (i = 0; i< menu.length; i++) {
 
 console.log(menu)
 console.log(gfMenu); */
-/* 
 
-5.
 
- const mixedArray = [1, 2, 3, 'taco', 4, 5, 6, 'burrito', 7, 8, 9, 'Whats the deal with airplane peanuts', 3.14, {barry: "Mannilow",}, 6, 55, null, "Old " + "Crow " + " Medicine Show", 3, 2, "I want the calzone from pizanos", "Death blow", "Firestorm", "48", 30];
+/* 5.
+  const mixedArray = [1, 2, 3, 'taco', 4, 5, 6, 'burrito', 7, 8, 9, 'Whats the deal with airplane peanuts', 3.14, {barry: "Mannilow",}, 6, 55, null, "Old " + "Crow " + " Medicine Show", 3, 2, "I want the calzone from pizanos", "Death blow", "Firestorm", "48", 30];
  
  
 let stringMe = [];
@@ -52,6 +51,6 @@ let stringMe = [];
 }
     
  console.log(mixedArray);
- console.log(stringMe); */
- 
+ console.log(stringMe);  */
+
  
